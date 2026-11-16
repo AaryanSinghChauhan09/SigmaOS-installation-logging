@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-installation-logging"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS installation-logging component - installer"
+
+[lib]
+name = "installation_logging"
+path = "src/lib.rs"
