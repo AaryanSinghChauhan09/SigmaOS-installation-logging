@@ -3,7 +3,7 @@ name = "SigmaOS-installation-logging"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "installation-logging component"
+description = "Installation Logging"
 upstream = []
 
 [contract]
